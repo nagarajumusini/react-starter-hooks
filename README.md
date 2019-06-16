@@ -1,4 +1,8 @@
+# React Starter Hooks
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Demo
+Open [https://react-starter-hooks.herokuapp.com/](https://react-starter-hooks.herokuapp.com/) to view it in the browser
 
 ## Available Scripts
 
